@@ -1,0 +1,18 @@
+export const PROJECTS = [
+    { name: "Fieldnotes", year: 2020, img: "/images/img1.jpg" },
+    { name: "Redline", year: 2021, img: "/images/img2.jpg" },
+    { name: "Gallery walk", year: 2019, img: "/images/img3.jpg" },
+    { name: "Side Profile", year: 2022, img: "/images/img4.jpg" },
+    { name: "Open Mic", year: 2023, img: "/images/img5.jpg" },
+    { name: "Backboard", year: 2024, img: "/images/img6.jpg" },
+    { name: "Afterglow", year: 2021, img: "/images/img7.jpg" },
+    { name: "Hill House", year: 2020, img: "/images/img8.jpg" },
+    { name: "Low Tide", year: 2018, img: "/images/img9.jpg" },
+    { name: "Timepiece", year: 2019, img: "/images/img10.jpg" },
+    { name: "Close Focus", year: 2022, img: "/images/img11.jpg" },
+    { name: "AirFrame", year: 2023, img: "/images/img12.jpg" },
+    { name: "Hardcase", year: 2024, img: "/images/img13.jpg" },
+    { name: "Deep Red", year: 2021, img: "/images/img14.jpg" },
+    { name: "Fast Track", year: 2025, img: "/images/img15.jpg" },
+    { name: "Night Shift", year: 2026, img: "/images/img16.jpg" },
+];
