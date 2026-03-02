@@ -2,6 +2,8 @@
 
 A visually immersive **scroll-driven animation** built with **Next.js**, **GSAP**, and **Lenis**. As the user scrolls, rows of project cards dynamically expand in width to create a fluid, cinematic reveal effect — inspired by editorial portfolio layouts.
 
+<img width="1920" height="1080" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/7c15ebf1-3e8e-4fe5-a2f7-a95efa3da169" />
+
 ---
 
 ## ✨ Features
